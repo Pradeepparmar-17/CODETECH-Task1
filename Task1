@@ -1,0 +1,11 @@
+/ *DATA PROCESSING */
+
+# Step 1: Define the data (list of numbers)
+data = [5, 2, 9, 1, 5, 6]
+
+# Step 2: Sort the data
+sorted_data = sorted(data)
+
+# Step 3: Print or use the sorted data
+print("Original data:", data)
+print("Sorted data:", sorted_data)
